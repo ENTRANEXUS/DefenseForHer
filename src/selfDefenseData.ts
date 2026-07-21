@@ -14,6 +14,7 @@ import story8 from "./stories/story8.md?raw";
 import story9 from "./stories/story9.md?raw";
 import story10 from "./stories/story10.md?raw";
 import story11 from "./stories/story11.md?raw";
+import story12 from "./stories/story12.md?raw";
 import { Technique, Story, Scenario, Drill } from './types';
 
 export const TECHNIQUES: Technique[] = [
@@ -167,7 +168,7 @@ export const STORIES: Story[] = [
    actionTaken: 'Hard kick to the groin area',
     outcome: 'He bent over in intense pain and gasped for air. But i kicked him multiple times making him collapse on the floor',
     psychologicalInsight: 'If you are trained and active you cant be easily overpowered by anyone',
-    dateAdded: 'July 10, 2026'
+    dateAdded: 'Feb 10, 2026'
   },
   {
     id: 'story-7',
@@ -177,7 +178,7 @@ export const STORIES: Story[] = [
     actionTaken: "They approached the house with calm confidence, used their training to interrupt the attack, and helped Carla get to safety.",
     outcome: 'The confrontation ended with the attackers unable to continue their assault and the women able to leave the scene safely. The matter was reported to authorities, and the survivors were able to move forward with support and protection.',
     psychologicalInsight: 'When fear is met with preparation and resolve, it becomes a source of power rather than paralysis. Standing together can turn trauma into courage and action.',
-    dateAdded: 'July 19, 2026'
+    dateAdded: 'May 19, 2026'
   },
   {
     id: 'story-8',
@@ -187,7 +188,7 @@ export const STORIES: Story[] = [
     actionTaken: "She freed one leg, kneed him, punched his face, head-butted him when her arms were restrained, repeatedly kneed his groin and ribs, and yelled for help.",
     outcome: 'fought back using karate techniques—freeing a leg, striking the attacker, head-butting him when restrained, repeatedly kneeing him, and yelling for help',
     psychologicalInsight: 'Every assault is different. Fighting back, escaping, complying, or using verbal de-escalation may each be the safest option depending on the circumstances. A survivors actions should not be judged by the outcome, as no single strategy guarantees safety.',
-    dateAdded: 'July 19, 2026'
+    dateAdded: 'March 19, 2026'
   },
    {
     id: 'story-9',
@@ -197,7 +198,7 @@ export const STORIES: Story[] = [
     actionTaken: "Farida stepped into a fighting stance, maintained focus on the attacker's movement, and when he lunged, she targeted a vulnerable area by grabbing and twisting his groin. She then immediately ran away",
     outcome: 'The attacker collapsed in pain, allowing Farida to run home, lock the door, and reach safety. The following day, her experience inspired other women in the village to consider self-defense training.',
     psychologicalInsight: 'Farida displayed situational awareness, emotional control, and decisive action. She remained focused on the movement of attacker rather than becoming overwhelmed by fear. Her goal was not revenge but creating a brief opportunity to escape. By using a targeted defensive technique and leaving immediately, she prioritized survival over continuing the confrontation.',
-    dateAdded: 'July 19, 2026'
+    dateAdded: 'March 20, 2026'
   },
   {
     id: 'story-10',
@@ -207,7 +208,7 @@ export const STORIES: Story[] = [
     actionTaken: "Seizing the opportunity, the victim launched a sudden and determined counterattack, targeting the groin area and castrating him .",
     outcome: 'The attempted rape was interrupted,The attacker collapsed in pain, and the attacker lost the ability to maintain control.',
     psychologicalInsight: 'The victim survived and regained physical control of the situation and the attacker suffered catastrophic injuries, leaving him completely incapacitated.',
-    dateAdded: 'July 19, 2026'
+    dateAdded: 'june 19, 2026'
   },
    {
     id: 'story-11',
@@ -217,8 +218,18 @@ export const STORIES: Story[] = [
     actionTaken: "Seizing the opportunity, the victim launched a sudden and determined counterattack, targeting the groin area  .",
     outcome: 'The attempted rape was interrupted,The attacker collapsed in pain, and the attacker lost the ability to maintain control.',
     psychologicalInsight: 'The victim survived and regained physical control of the situation and the attacker suffered catastrophic injuries, leaving him completely incapacitated.',
-    dateAdded: 'July 19, 2026'
-  }
+    dateAdded: 'June 12, 2026'
+  },
+   {
+    id: 'story-12',
+    title: ' Hard testical grab saved me from molester',
+    survivorName: 'Maria (Student,22)',
+    situation: story12,
+    actionTaken: "The narrator responds physically after being repeatedly poked and insulted, she strikes the man's groin with an open palm. She grabs one of his testicles and squeezes firmly while confronting him about his insulting behavior.",
+    outcome: 'The man experiences intense pain and is unable to stand or walk normally, he apologizes and denies his earlier insult while pleading to be released.',
+    psychologicalInsight: 'The narrator perceives the physical response as a way to immediately stop unwanted touching and verbal abuse. The narrator perceives the physical response as a way to immediately stop unwanted touching and verbal abuse. Looking back, she frames the incident as an effective lesson in self-respect and personal safety rather than regretting her actions',
+    dateAdded: 'July 10, 2026'
+  }, 
 
 
 

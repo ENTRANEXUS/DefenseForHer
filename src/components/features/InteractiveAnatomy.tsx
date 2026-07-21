@@ -46,7 +46,20 @@ const TARGETS: TargetZone[] = [
     title: 'Anatomical Off-Button',
     impactType: 'Immediate Cardiovascular Collapse',
     medicalDescription: 'Extremely high concentration of sensory nerve endings. Compressive or kinetic trauma causes an immediate, severe drops in blood pressure (vasovagal syncope), leading to extreme dizziness, nausea, and immediate muscular collapse.',
-    tacticalApplication: 'The ultimate target for the Snap Groin Kick (distance) or the Claw & Twist (close-range pins/grabs). A firm squeeze or snap results in autonomic shutdown.',
+    tacticalApplication: `The ultimate target for the Snap Groin Kick (distance) or the Claw & Twist (close-range pins/grabs). A firm squeeze or snap results in autonomic shutdown.
+
+A severe kick to the testicles can trigger nausea and vomiting because intense pain signals can provoke a strong autonomic response.
+
+People often report that severe testicular pain feels extremely intense, which may contribute to dizziness or, in some cases, fainting.
+
+In severe cases, overwhelming pain may be associated with temporary loss of bladder or bowel control.
+
+Severe testicular pain can also trigger sweating, chills, shivering, or feelings of being unusually hot or cold due to activation of the autonomic nervous system.
+
+Although many symptoms improve over time, pain from a significant testicular injury can persist for weeks or even months if substantial tissue damage has occurred.`,
+
+
+
     vulnerabilityFactor: '10/10 - Extremely fragile tissue, easily damaged by even minor compression (less than 10 lbs of pressure). Can instantly incapacitate any attacker regardless of size.',
     incapacitationThreshold: 'Extremely Low (< 10 lbs of compressive force)',
     recoveryTime: '1 to 2 hours of profound autonomic distress'
@@ -93,7 +106,10 @@ export default function InteractiveAnatomy() {
           <h2 className="text-2xl font-black italic uppercase tracking-tighter text-white">The Biomechanics of Defense</h2>
         </div>
         <p className="text-zinc-400 text-sm leading-relaxed">
-          Self-defense is not about matching strength; it is about targeting vulnerability. Below is a detailed medical and tactical breakdown of the human groin area. Click the pulsing target rings to understand why these strikes disable any attacker instantly.
+          Self-defense through Groin Attacks (Ballbusting) is about targeting vulnerability. 
+          The pain from ballbusting can be so bad that it turns the man into a squirming piece of meat on the floor, crying like a big dumb puppy. But actually, their balls are fine. Of course you might see some deep purple bruises develop, but after one or two weeks, these go away and the testicles are right as rain.
+          Even though testicles are sensitive as hell because of the millions of nerve endings clumped inside to warn the male if anything bad is happening to his balls, the fact is, they're covered in a tough to break membrane called the tunica albuginea.
+          Below is a detailed medical and tactical breakdown of the human groin area. Click the pulsing target rings to understand why these strikes disable any attacker instantly.
         </p>
       </div>
 

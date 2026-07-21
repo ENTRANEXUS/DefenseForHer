@@ -22,20 +22,32 @@ export default function AboutManifesto() {
       <div className="bg-zinc-900 border-2 border-zinc-800 p-6 lg:p-10 relative overflow-hidden" id="manifesto-hero">
         <div className="absolute top-0 right-0 w-64 h-64 bg-red-950/20 rounded-full blur-3xl -z-10" />
         
-        <div className="max-w-3xl space-y-4">
-          <div className="inline-flex items-center gap-2 bg-red-950/50 border border-red-900/60 px-3.5 py-1.5 text-[10px] font-mono text-red-400 uppercase tracking-widest font-bold">
-            <Heart className="w-3.5 h-3.5 text-red-600 animate-pulse" /> Core Mission Statement
-          </div>
-          <h1 className="text-3xl lg:text-5xl font-black italic uppercase tracking-tighter text-white leading-tight">
-            She Deserves to Feel Safe
-          </h1>
-          <h2 className="text-xl lg:text-2xl font-bold font-mono tracking-wide text-red-500 uppercase">
-            Knowledge. Confidence. Courage.
-          </h2>
-          <p className="text-zinc-300 text-base leading-relaxed font-sans max-w-2xl">
-            Every woman deserves the freedom to walk to school, work, college, a market, or home without fear. This platform was created with one simple purpose: to empower women through practical, biological self-defense knowledge.
-          </p>
-        </div>
+      <div className="w-full space-y-4">
+  <div className="inline-flex items-center gap-2 bg-red-950/50 border border-red-900/60 px-3.5 py-1.5 text-[10px] font-mono text-red-400 uppercase tracking-widest font-bold">
+    <Heart className="w-3.5 h-3.5 text-red-600 animate-pulse" />
+    Core Mission Statement
+  </div>
+
+  <h1 className="text-3xl lg:text-5xl font-black italic uppercase tracking-tighter text-white leading-tight">
+    She Deserves to Feel Safe
+  </h1>
+
+  <h2 className="text-xl lg:text-2xl font-bold font-mono tracking-wide text-red-500 uppercase">
+    Knowledge. Confidence. Courage.
+  </h2>
+
+  <p className="w-full text-zinc-300 text-base leading-relaxed font-sans whitespace-pre-line">
+    Every woman deserves the freedom to walk to school, work, college, a market, or home without fear. This platform was created with one simple purpose: to empower women through practical, biological self-defense knowledge. Women are often hesitant to take advantage of the fact that the balls are an easy target. However, if his balls are within reach, striking them can create an opportunity to escape.
+
+    It's almost your duty to defend yourself if you are targeted. When a woman kicks, knees, punches, or tightly grabs an attacker's groin, he may temporarily lose the ability to continue the assault.
+
+    The objective is not to fight or seek revenge. The objective is to create enough time to break free, escape immediately, get to a safe location, and contact emergency services or trusted people.
+
+    In any self-defense situation, your priority should always be your own safety. Once you have created an opportunity to escape, leave immediately rather than remaining at the scene.
+
+    Knowledge, awareness, confidence, and decisive action can make the difference between becoming a victim and getting home safely.
+  </p>
+</div>
       </div>
 
       {/* Grid: Core Philosophy & Key Pillars */}

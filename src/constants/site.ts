@@ -8,7 +8,7 @@ export const siteConfig = {
   We have heard an eye for an eye and tooth for the tooth, Similarly why not hurt them through their private parts if they attempt to traumatize and hurt you by physical harassment & rape? If they have confidence to do crime then you too have right to defend yourself.`,
 
 
-  copyright: "© 2026 Defense For Her",
+  copyright: "© 2026 Defense For Her | Self-Defense Through Groin Attacks",
 
   legalDisclaimer:
     "This is an educational research portal committed exclusively to social, lawful, defensive counter-measures against severe personal violence, assault, and harassment.",
@@ -17,5 +17,5 @@ export const siteConfig = {
     "By utilizing this training resource, you commit to maintaining situational awareness, pre-planning emergency routes, rehearsing strike biomechanics, and carrying yourself with absolute physical authority.",
 
   defaultMetaDescription:
-  "Self-defense educational content and training resources.",
+    "Self-defense educational content and training resources.",
 };

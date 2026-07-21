@@ -94,7 +94,7 @@ export default function DefenseManual() {
               : 'border-transparent text-zinc-500 hover:text-zinc-300'
           }`}
         >
-          2. Strike Variant Catalog
+          2. Groin Attacks Types (Ballbusting)
         </button>
         <button
           id="btn-sub-literature"
@@ -312,7 +312,37 @@ export default function DefenseManual() {
                 </div>
               </div>
 
-           {/* 9. Testicle Smash / Extreme Groin Control */}
+                {/* 9. Cut &/ Rip Dick Off */}
+              <div className="bg-zinc-900 border-2 border-zinc-800 p-5 space-y-3" id="catalog-Cut-&/-Rip-Dick-Off">
+                <div className="flex justify-between items-start">
+                  <h4 className="text-white text-lg font-black uppercase tracking-tight">Cut &/ Rip Dick Off</h4>
+                  <span className="text-[9px] font-mono bg-red-950/40 border border-red-800/40 text-red-400 px-2 py-0.5 font-bold uppercase">Core Concept</span>
+                </div>
+                <p className="text-zinc-300 text-xs leading-relaxed">
+                   keep something sharp with you in your pockets and purse and socks too something sharp like boot knife,paper cutter etc and when culprit is about to penetrate his dick in your body from below than attack with that sharp object and cut his penis &/ balls down. If you dont have any sharp thing and if your arms cant move then you have teeth to do so if situation occurs.
+                </p>
+                <div className="bg-zinc-950/50 p-3 text-[11px] text-zinc-400 leading-relaxed border-l border-zinc-700">
+                  <strong className="text-zinc-200 block mb-0.5 uppercase font-bold text-[9px] tracking-wide">Tactical Awareness:</strong>
+                  Often taught as a close-distance extreme self-defense option when the attacker’s genitals are exposed and you have something sharp like blade or cutter or knife etc. 
+                </div>
+              </div>
+
+              {/* 10. Grab and Squeeze */}
+              <div className="bg-zinc-900 border-2 border-zinc-800 p-5 space-y-3" id="catalog-grab-and-squeeze">
+                <div className="flex justify-between items-start">
+                  <h4 className="text-white text-lg font-black uppercase tracking-tight">Grab and Squeeze</h4>
+                  <span className="text-[9px] font-mono bg-red-950/40 border border-red-800/40 text-red-400 px-2 py-0.5 font-bold uppercase">Core Concept</span>
+                </div>
+                <p className="text-zinc-300 text-xs leading-relaxed">
+                 Using your right hand, take hold of his left testicle between your thumb and index finger, securing it firmly. Then wrap your remaining three fingers around his right testicle and begin applying pressure. Start gently, then gradually increase the force until it becomes intensely painful. While maintaining that pressure, use the palm of your hand to press both testicles together. The combined compression dramatically intensifies the pain. Continue holding the pressure until he cries out in pain or until he is weak and nearly fainting, then release your grip. (5-10 mins atleast for perfect results)
+                </p>
+                <div className="bg-zinc-950/50 p-3 text-[11px] text-zinc-400 leading-relaxed border-l border-zinc-700">
+                  <strong className="text-zinc-200 block mb-0.5 uppercase font-bold text-[9px] tracking-wide">Tactical Awareness:</strong>
+                  Often taught as a close-distance extreme self-defense option when the attacker’s genitals are exposed and you have something sharp like blade or cutter or knife etc. 
+                </div>
+              </div>
+
+           {/* 11. Testicle Smash / Extreme Groin Control */}
               <div className="bg-zinc-900 border-2 border-zinc-800 p-5 space-y-3" id="catalog-testicle-smash">
                 <div className="flex justify-between items-start">
                   <h4 className="text-white text-lg font-black uppercase tracking-tight">Testicle Smash</h4>
@@ -325,9 +355,9 @@ This situation may arise because the attack happened very quickly, the attacker 
 
 While the penis is relatively insensitive to pain, the testicles are extremely sensitive. Positioned externally rather than protected within the body, they are highly vulnerable to pain and can trigger an immediate physical reaction.
 
-When selecting this technique as an ultimate plan of action, the defender should act with complete determination. They should firmly grasp one or both testicles and squeeze, twist, and pull with maximum force.
+Try to grab one testicle in each hand, wrap your fingers around each of them and put your thumb on center, don't rely only on fingers strength, squeeze hard by closing your palms while adding force using your wrists and forearms, twist and squeeze with full force, push down with too much force, putting most of your body weight on, inside of tissue will start to tear and from inside it will burst , testicles will lose their shape and become flattened or mushy.
 
-The grip should not be released until the attacker is fully incapacitated. This technique demands a very high level of commitment, requiring the defender to remain completely focused on stopping the attack and creating the opportunity to escape.
+It will take 4 to 5 mins if your grip is strong or 10 to 15 mins if your grip is weak. The main trick is that no matter what happens the grip should not be released until the attacker is fully incapacitated. This technique demands a very high level of commitment, requiring the defender to remain completely focused on stopping the attack and creating the opportunity to escape.
                 </p>
                 <div className="bg-zinc-950/50 p-3 text-[11px] text-zinc-400 leading-relaxed border-l border-zinc-700">
                   <strong className="text-zinc-200 block mb-0.5 uppercase font-bold text-[9px] tracking-wide">Tactical Awareness:</strong>
