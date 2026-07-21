@@ -27,5 +27,5 @@ export const footerSections: FooterSection[] = [
 ];
 
 export const footerSocialLinks: FooterLink[] = [
-  { label: "Future Social Links", href: "#" },
+  { label: "Hit The Groin To Save Yourself", href: "#" },
 ];

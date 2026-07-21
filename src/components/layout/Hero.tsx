@@ -17,12 +17,12 @@ export default function Hero() {
 
           <span className="block text-xs tracking-[0.4em] uppercase font-bold text-red-600">{siteConfig.tagline}</span>
           <h1 className="text-4xl sm:text-5xl lg:text-7xl font-black italic tracking-tighter text-white leading-none uppercase">
-            DEFEND HER
+            Attack The Groin And Save Yourself
           </h1>
 
-          <p className="text-zinc-400 text-sm sm:text-base leading-relaxed max-w-2xl font-sans">
-            {siteConfig.heroDescription}
-          </p>
+          <p className="text-zinc-400 text-sm sm:text-base leading-relaxed max-w-2xl font-sans whitespace-pre-line">
+  {siteConfig.heroDescription}
+</p>
         </div>
 
         <div className="lg:col-span-4 grid grid-cols-2 gap-3.5">
@@ -43,7 +43,7 @@ export default function Hero() {
             <div>
               <span className="text-[9px] font-mono text-red-500 uppercase tracking-wider block font-bold">Constitutional Right</span>
               <div className="text-sm font-black text-white uppercase tracking-tight">Absolute Personal Sovereignty</div>
-              <p className="text-[10px] text-zinc-400 leading-normal">You have 100% legal right to defend your body.</p>
+              <p className="text-[10px] text-zinc-400 leading-normal">You have 100% legal & religious right to defend your body.</p>
             </div>
           </Card>
         </div>
