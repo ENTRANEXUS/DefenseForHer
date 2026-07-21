@@ -5,8 +5,8 @@
 
 import { useState, useEffect, FormEvent } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
-import { STORIES } from '../selfDefenseData';
-import { Story } from '../types';
+import { STORIES } from '../../selfDefenseData';
+import { Story } from '../../types';
 import { Heart, Send, Sparkles, BookOpen, UserCheck, MessageSquarePlus } from 'lucide-react';
 
 const MOTIVATION_QUOTES = [

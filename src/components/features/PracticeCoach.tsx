@@ -5,8 +5,8 @@
 
 import { useState, useEffect, useRef } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
-import { DRILLS } from '../selfDefenseData';
-import { Drill } from '../types';
+import { DRILLS } from '../../selfDefenseData';
+import { Drill } from '../../types';
 import { Play, Square, RefreshCw, Volume2, VolumeX, ShieldAlert, Award, Clock } from 'lucide-react';
 
 function playBeep(freq: number, duration: number) {

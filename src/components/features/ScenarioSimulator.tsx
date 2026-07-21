@@ -5,7 +5,7 @@
 
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
-import { SCENARIOS } from '../selfDefenseData';
+import { SCENARIOS } from '../../selfDefenseData';
 import { Shield, Zap, AlertTriangle, ArrowRight, RotateCcw, CheckCircle2, Skull, Heart } from 'lucide-react';
 
 export default function ScenarioSimulator() {

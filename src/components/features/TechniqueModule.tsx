@@ -5,8 +5,8 @@
 
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
-import { Technique } from '../types';
-import { TECHNIQUES } from '../selfDefenseData';
+import { Technique } from '../../types';
+import { TECHNIQUES } from '../../selfDefenseData';
 import { Shield, Flame, Activity, Zap, CheckCircle, ArrowRight, BookOpen, AlertOctagon } from 'lucide-react';
 
 interface TechniqueModuleProps {
