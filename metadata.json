@@ -1,0 +1,6 @@
+{
+  "name": "Groin Attacks As Self-Defense",
+  "description": "An interactive physical defense portal empowering women with tactical groin-strike techniques, visual training modules, scenario simulators, and motivational survivor success stories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

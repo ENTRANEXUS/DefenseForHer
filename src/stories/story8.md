@@ -1,0 +1,2 @@
+A 25-year-old woman who fought off a sexual predator says that attacker was holding me down on the ground and basically tried to take my cloths off by pulling at my top.
+I implemented self defense and I have no doubt i broke his nose and ribs and also his balls would be black and blue, I think he'll be a lot more sore than I am because I saved my self by kneeing him in the groin and ribs and head-butting him. I urge all women everywhere to learn self-defense.
