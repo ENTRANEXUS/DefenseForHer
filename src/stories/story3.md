@@ -1,28 +1,34 @@
-    'I was in classroom on third floor all alone as it was evening and classes were end so there wasn't anyone else.I often used t stay in college bit late and study but that day was really different.I was head down on desk as i was thinking something and suddenly i sensed someones presence.I rise my head up and was shocked to see Mathew who was most irritating and was famous for harassing girls but was never caught so principal never took any sort of action against him despite multiple girls have complained that he tried to bully,molest,harass and send nude photos to girls.
-    Anyways what shocked me was he was not even alone but two other boys john and peter with him two bu t they were on the door of the class.
-    I asked adam that what does he want and why is here but instead of replying he took out knife from his pocket from from his right hand and with left hand he rubbed my face in gentle way and shouted on me saying that either give me suck my dick bitch or i will cut your dress and rape you.... 
-    My heartbeat become fast and i started taking deep breath as i was nervous and scared so much as i was alone i knew that even if i shout its of no use....I understood that all i can do is act upon his instructions....
-    But guess what there was something else that was also running in my mind and it was my self-defense groin attack training.
-    I relaxed my self and smiled seeing him as if i am going to suck his...I went don on my knees and looked into his eyes in teasing and seducing way so he cant know my real plan, i knew that he want be standing anymore after sometimes...
-    He was happy and smiling on me arrogantly but he didnt knew that all his arrogance will fade away and that smile will be replaced by tears....
-    I unzipped his pants and spitted on his erected dick and started jerking with my left hand while i keep looking in his eyes maintaining seducing eye contact...within a minute he closed his eyes enjoying the jerkoff and this was the moment i was waiting for...
-    I moved my right hand towards his testicles/balls, my delicate fingers start wrapping around his balls and now i found the perfect grip. Each little movement of my hand caused him to flinch and breathe deep because he was enjoying tha pleasure but he was not  prepare for what’s coming. It’s going to hurt, and I will love giving him this pain.
-    I tightened my grip and I can feel that now he is the game and i am the player because the joystick(his testicles and penis) were in fmy full control....my fingers slowly compressing down more and more on his sensitive testicles and than I added pressure on his testicles that caused pulse of pain through his stomach to his brain and he opened his eyes in shock and fear because knew that he is now fully under my control, now it was me who shouted in an authoritative manner that throw the knife or i will destroy your manhood...
-    He threw his knife in fear and his friend were in shock too see how the tables had turned...I asked both of them to to take off their shirts and pants or else his friend will not be able to make babies.....they acted as i said and then i asked peter to come and bind hand of adam on his back with his shirt...he acted accordingly and went back to door.....
-    I giggled while tightening my grip as my fingers slowly compressing down more and more on his sensitive testicles and with each moment that passes, the pain was getting worse because his face was became light red with,i also saw his eyes getting bit wet as if he was about cry......
-    I continued to tighten my grip, I can feel his nuts flattening in my grip and the pain is quickly becoming unbearable for him as he I groaned faintly and tried to use his hand to stop me which only caused me to squeeze harder. His knees buckle and he started shivering in pain and fear while struggling hard to keep standing. 
-    After a few seconds of squeezing with a medium force, I squeeze down hard,using my left hand for pinching his testicles with sharp nails causing him instantly dropping me to his knees.
-    He cried out loud as he wasnt able to take more pain but i wasnt done yet...I twisted her hand violently, causing the pain to spike to levels he could have never imagined, he fell on the floor backwards....
-    As a final act i punched his testicles 5 times with full force and stood up picked the knife took my bag went towards door and escape by running.......
+"I was in the classroom on the third floor all alone, as it was evening and classes had ended, so there wasn't anyone else. I often used to stay at college a bit late and study, but that day was really different. I had my head down on the desk as I was thinking about something, and suddenly I sensed someone's presence.
 
-    Note:
-    Groin strikes are highly effective for women's self-defense because they exploit an area with a high concentration of vulnerable nerve endings.Do strike for it and run if possible but in my case you saw me that how tricked these idiots..In short learn self defense,use your brain and act as per situations. 
+I raised my head and was shocked to see Mathew, who was the most irritating student and was famous for harassing girls but was never caught, so the principal never took any sort of action against him despite multiple girls complaining that he had tried to bully, molest, harass, and send nude photos to them.
 
+Anyways, what shocked me was that he was not even alone. Two other boys, John and Peter, were with him, but they were standing at the door of the classroom.
 
- 
+I asked Adam what he wanted and why he was there, but instead of replying, he took out a knife from his right pocket with his right hand, and with his left hand he gently rubbed my face and shouted at me, saying, "Either suck my dick, bitch, or I will cut your dress and rape you."
 
-    
-    
-    
-    
-     I slid my hand back between his legs, got a firm, claw-grip on his testicles, and squeezed with every ounce of strength I had, twisting it violently.',
+My heartbeat became fast, and I started taking deep breaths as I was so nervous and scared. I was alone, and I knew that even if I shouted, it would be of no use. I understood that all I could do was act according to his instructions.
+
+But guess what? There was something else that was also running through my mind, and it was my self-defense groin attack training.
+
+I relaxed myself and smiled at him as if I was going to do what he wanted. I went down on my knees and looked into his eyes in a teasing and seductive way so he couldn't know my real plan. I knew that he wouldn't be standing anymore after some time.
+
+He was happy and smiling at me arrogantly, but he didn't know that all his arrogance would fade away and that smile would be replaced by tears.
+
+I unzipped his pants, spat on his erect penis, and started jerking it with my left hand while I kept looking into his eyes, maintaining seductive eye contact. Within a minute, he closed his eyes, enjoying it, and this was the moment I had been waiting for.
+
+I moved my right hand towards his testicles. My delicate fingers started wrapping around them, and now I had found the perfect grip. Each little movement of my hand caused him to flinch and breathe deeply because he was enjoying the pleasure, but he was not prepared for what was coming. It was going to hurt, and I was ready to make him feel that pain.
+
+I tightened my grip, and I could feel that now he was the game and I was the player because the joystick—his testicles and penis—was in my full control. My fingers slowly compressed more and more on his sensitive testicles, and then I added even more pressure, sending a pulse of pain through his stomach to his brain. He opened his eyes in shock and fear because he knew that he was now fully under my control. It was now me who shouted in an authoritative manner, "Throw the knife, or I will destroy your manhood."
+
+He threw the knife in fear, and his friends were in shock to see how the tables had turned. I asked both of them to take off their shirts and pants, or else their friend would not be able to make babies. They did as I said, and then I asked Peter to come and bind Adam's hands behind his back with his shirt. He did accordingly and then went back to the door.
+
+I giggled while tightening my grip as my fingers slowly compressed more and more on his sensitive testicles, and with each passing moment the pain became worse. His face became light red, and I also saw his eyes getting a bit wet as if he was about to cry.
+
+I continued to tighten my grip. I could feel his testicles flattening in my hand, and the pain was quickly becoming unbearable for him as he groaned faintly and tried to use his hand to stop me, which only caused me to squeeze harder. His knees buckled, and he started shivering in pain and fear while struggling to keep standing.
+
+After a few seconds of squeezing with medium force, I squeezed down hard, using my left hand to pinch his testicles with my sharp nails, causing him to instantly drop to his knees.
+
+He cried out loud as he wasn't able to take any more pain, but I wasn't done yet. I twisted his hand violently, causing the pain to spike to levels he could never have imagined, and he fell backwards onto the floor.
+
+As a final act, I punched his testicles five times with full force, then stood up, picked up the knife, took my bag, went towards the door, and escaped by running.
+
